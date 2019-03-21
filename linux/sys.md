@@ -34,5 +34,4 @@ ssh -l username -p 7777 localhost
 alias ll='ls -l'
 alias la='ls -la'
 ```
-5. [Todo](../Todo.md#Todo): how to merge portage's configuration files
 
