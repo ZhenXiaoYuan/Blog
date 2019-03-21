@@ -1,3 +1,5 @@
+## gdb
+
 ### Tips
 
 ```bash
@@ -21,7 +23,6 @@ watch expr  # 增加观察点
 watch expr thread thread-num    # 针对特定线程增加观察点
 rw expr # 增加读观察点
 aw expr # 增加读写观察点
-
 ```
 
 ### References
